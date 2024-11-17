@@ -2,7 +2,7 @@
 
 # Overview
 The project is focused on analyzing wholesale customer purchasing behavior. It uses clustering and Self-Organizing Maps (SOMs) to analyze customer spending data. The data appears to be sourced from the UCI Machine Learning Repository.
-# Data source
+# Data source[Download] (https://github.com/Pritex32/whole_sale_customer/blob/main/Wholesale%20customers%20data.csv)
 The dataset used for this project is from UCI machine learning repository (Wholesale customers - UCI Machine Learning Repository)
 Its features includes Annual spending on various products (e.g., milk, grocery, frozen foods).The data set is multivariate with 440 rows and 8 columns.
 It includes the annual spending in monetary units (m.u.) on diverse product categories.
